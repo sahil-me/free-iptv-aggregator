@@ -1,0 +1,8 @@
+{
+  "name": "OpenStream",
+  "description": "A legal, open-source IPTV aggregator and OTT platform for streaming publicly available free-to-air channels worldwide.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
