@@ -7,7 +7,7 @@
 
 A modern **OTT-style web application** for discovering and streaming free global live TV channels.
 
-🚀 **Live Demo** : https://free-iptv-aggregator.vercel.app
+🚀 **Live Demo** : [Youtube](https://youtu.be/jG7haHUeMps?si=_aL8vEkzXJ2XaKbt)
 
 </div>
 
