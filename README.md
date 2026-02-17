@@ -1,20 +1,13 @@
+# 🌍 OpenStream OTT 🎬
+
+<img width="1536" height="1024" alt="OpenStream_OTT" src="https://github.com/user-attachments/assets/f5a84e66-06be-48e2-8181-87bb7913ac0e" />
+
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+A modern **OTT-style web application** for discovering and streaming free global live TV channels.
+
+🚀 **Live Demo** : https://free-iptv-aggregator.vercel.app
+
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1N3yNYA4hX-i-giR3Zo9Q6yxbBeFRD22J
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
