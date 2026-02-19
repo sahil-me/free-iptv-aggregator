@@ -70,7 +70,12 @@ It demonstrates:
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm" />
 
 ### 🚀 DevOps
-<img src="https://skillicons.dev/icons?i=vercel,git,github," />
+<img src="https://skillicons.dev/icons?i=vercel,git,github" />
+
+### 🤖 AI-Assisted Development
+![Gemini 3](https://img.shields.io/badge/Gemini-3-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-Platform-34A853?style=for-the-badge&logo=google&logoColor=white)
+
 
 ---
 
@@ -165,5 +170,5 @@ Built with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
 
 ![giphy](https://github.com/user-attachments/assets/e30d46e7-3a0a-4346-9fcf-4c543e6222d6)
 
-⭐ If you like this project, consider **starring** the repository!
+⭐ If you like this project, consider **starring** the repository! 😉
 
