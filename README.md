@@ -15,16 +15,16 @@ A modern **OTT-style web application** for discovering and streaming free global
 
 ## 📢 Table of Contents
 
-- About the Project
-- Features
-- Live Demo
-- Tech Stack
-- Project Structure
-- Run Locally
-- Deployment
-- Future Improvements
-- Disclaimer
-- Author
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Live Demo](#-live-demo)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Run Locally](#-run-locally)
+- [Deployment](#-deployment)
+- [Future Improvements](#-future-improvements)
+- [Disclaimer](#%EF%B8%8F-disclaimer)
+- [Author](#%E2%80%8D-author)
 
 ---
 
