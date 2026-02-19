@@ -7,7 +7,163 @@
 
 A modern **OTT-style web application** for discovering and streaming free global live TV channels.
 
-🚀 **Live Demo** : [Youtube](https://youtu.be/jG7haHUeMps?si=_aL8vEkzXJ2XaKbt)
+🎥 **Live Demo** : [Youtube](https://youtu.be/jG7haHUeMps?si=_aL8vEkzXJ2XaKbt)
 
 </div>
+
+---
+
+## 📢 Table of Contents
+
+- About the Project
+- Features
+- Live Demo
+- Tech Stack
+- Project Structure
+- Run Locally
+- Deployment
+- Future Improvements
+- Disclaimer
+- Author
+
+---
+
+## 📌 About the Project
+
+**OpenStream OTT** is a modern web-based OTT-style application that allows users to explore and stream publicly available live TV channels from around the world.
+
+The goal of this project is to provide a clean, simple, and accessible interface for browsing global streams without requiring login, subscriptions, or downloads.
+
+It demonstrates:
+- Modern frontend architecture
+- Clean project structure
+- Live stream playback in the browser
+- Cloud deployment with CI/CD
+
+---
+
+## 🔻 Features
+
+- 🌍 Browse global live TV channels
+- ▶️ Play live .m3u8 streams directly in the browser
+- 🚀 Fast and lightweight interface
+- 🔄 Automatic deployment via GitHub + Vercel
+- 🔓 No login required
+- 📱 Responsive design
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Try it here** : https://free-iptv-aggregator.vercel.app
+
+> 👉 No signup. No paywall. Just open and explore! 🙂
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=typescript,html,css" />
+
+### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm" />
+
+### 🚀 DevOps
+<img src="https://skillicons.dev/icons?i=vercel,git,github," />
+
+---
+
+## 📂 Project Structure
+
+      free-iptv-aggregator/
+      │
+      ├── frontend/
+      │   ├── components/
+      │   ├── services/
+      │   ├── App.tsx
+      │   ├── package.json
+      │   └── vite.config.ts
+      │
+      ├── .gitignore
+      └── LICENSE
+
+> ✔ The frontend/ directory contains the complete React + Vite application!
+
+---
+
+## 💻 Run Locally
+
+### 🔻 Prerequisites
+- Node.js (v18+ recommended)
+
+### 🔻 Steps
+
+#### 1️⃣ Clone the repository :
+
+```
+git clone https://github.com/sahil-me/free-iptv-aggregator.git
+```
+
+```
+cd free-iptv-aggregator/frontend
+```
+
+#### 2️⃣ Install dependencies :
+
+```
+npm install
+```
+
+#### 3️⃣ Start development server :
+
+```
+npm run dev
+```
+
+#### 4️⃣ Open in browser :
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🌐 Deployment
+
+This project is deployed using Vercel.
+- Automatic deployments on every git push
+- Global CDN distribution
+- HTTPS enabled by default
+
+---
+
+## 🎯 Future Improvements
+
+- AI-powered channel categorization
+- Stream search and filtering
+- Gemini-powered channel summaries
+- Backend for stream metadata processing
+- Favorites & personalization
+- Performance optimization
+
+---
+
+## ⚠️ Disclaimer
+
+   **OpenStream OTT** does not host, upload, or store any video content.
+
+   All streams are publicly available third-party sources.
+
+   If you are a content owner and would like a stream removed, please open an issue in this repository.
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
+
+![giphy](https://github.com/user-attachments/assets/e30d46e7-3a0a-4346-9fcf-4c543e6222d6)
+
+⭐ If you like this project, consider **starring** the repository!
 
