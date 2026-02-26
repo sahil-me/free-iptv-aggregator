@@ -5,7 +5,7 @@
 
 <div align="center">
 
-A modern **OTT-style web application** for discovering and streaming free global live TV channels.
+A modern **OTT-Style Web Application** for discovering and streaming free global live TV channels.
 
 🎥 **Live Demo** : [Youtube](https://youtu.be/jG7haHUeMps?si=_aL8vEkzXJ2XaKbt)
 
@@ -83,17 +83,25 @@ It demonstrates:
 
       free-iptv-aggregator/
       │
-      ├── frontend/
-      │   ├── components/
-      │   ├── services/
-      │   ├── App.tsx
-      │   ├── package.json
-      │   └── vite.config.ts
+      ├── .github/                 # GitHub configuration files (e.g., security policy)
+      │   └── SECURITY.md
       │
-      ├── .gitignore
-      └── LICENSE
+      ├── frontend/                # Main React + Vite application
+      │   ├── components/          # Reusable UI components
+      │   ├── services/            # Stream & data handling logic
+      │   ├── App.tsx              # Root React component
+      │   ├── index.tsx            # Application entry point
+      │   ├── index.html           # HTML template
+      │   ├── package.json         # Dependencies & scripts
+      │   ├── tsconfig.json        # TypeScript configuration
+      │   └── vite.config.ts       # Vite configuration
+      │
+      ├── .gitignore               # Ignored files & directories
+      ├── CODE_OF_CONDUCT.md       # Contributor Covenant Code of Conduct
+      ├── LICENSE                  # MIT License
+      └── README.md                # Project documentation
 
-> ✔ The frontend/ directory contains the complete React + Vite application!
+> ✔ The `frontend/` directory contains the complete web application, while root-level files manage repository standards, licensing, and security policies!
 
 ---
 
